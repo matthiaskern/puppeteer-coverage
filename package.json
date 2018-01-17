@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-coverage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "puppeteer": "^1.0.0"
+  }
+}
